@@ -1,0 +1,4 @@
+{
+    "_comment": "optional custom locust settings",
+    "web_port": 9091
+}
