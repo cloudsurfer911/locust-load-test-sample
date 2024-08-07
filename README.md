@@ -15,7 +15,7 @@ The application is a simple mobile stock API server written in NodeJS.
 
 # Running a Linear Load Test Until Breaking Point
 
-# Run the load test using the following command:
+**Command:**
    locust -f mobile_get_linear_load.py --web-host localhost --web-port 8089 --host http://localhost:5050
 
 # Run the performance test for varying production-like load:
